@@ -1,7 +1,7 @@
 # 🚀 우아한테크코스 Projects
 
 <p align="center">
-    <img src="./image.jpg" alt="logo" width="40%"/>
+    <img src="./image.jpeg" alt="logo" width="40%"/>
 </p>
 
 > [우아한테크코스](https://woowacourse.github.io/)에서 수행한 모든 프로젝트를 기록으로 남긴다.
