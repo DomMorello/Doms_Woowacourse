@@ -27,6 +27,9 @@
 | Step | Project | Repository | Pull Request |
 |:---:|:---:|:---:|:---|
 | 1 | 자동차 경주 게임 | [javascript-racingcar-step2](https://github.com/DomMorello/javascript-racingcar/tree/dommorello) | [Pull Request](https://github.com/woowacourse/javascript-racingcar/pull/115) |
+| 2 | 로또 | [javascript-lotto-step1](https://github.com/DomMorello/javascript-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/javascript-lotto/pull/108) |
+|  |  | [javascript-lotto-step2](https://github.com/DomMorello/javascript-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/javascript-lotto/pull/126) |
+| 3 | 나만의 유투브 강의실 | [javascript-youtube-classroom-step1](https://github.com/DomMorello/javascript-youtube-classroom/tree/step1) | [Pull Request](https://github.com/woowacourse/javascript-youtube-classroom/pull/78) |
 
 <br>
 
