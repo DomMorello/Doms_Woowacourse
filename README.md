@@ -30,6 +30,7 @@
 | 2 | 로또 | [javascript-lotto-step1](https://github.com/DomMorello/javascript-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/javascript-lotto/pull/108) |
 |  |  | [javascript-lotto-step2](https://github.com/DomMorello/javascript-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/javascript-lotto/pull/126) |
 | 3 | 나만의 유투브 강의실 | [javascript-youtube-classroom-step1](https://github.com/DomMorello/javascript-youtube-classroom/tree/step1) | [Pull Request](https://github.com/woowacourse/javascript-youtube-classroom/pull/78) |
+|  |  | [javascript-youtube-classroom-step2](https://github.com/DomMorello/javascript-youtube-classroom/tree/step2) | [Pull Request](https://github.com/woowacourse/javascript-youtube-classroom/pull/149) |
 
 <br>
 
