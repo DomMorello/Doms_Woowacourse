@@ -143,7 +143,7 @@
 
 | Category | Description |
 |:---:| :---: |
-| Video | [[10분 테코톡] 🚴‍♂️ 돔하디의 VirtualDOM]([https://www.youtube.com/watch?v=Ry_gB34cvwc](https://www.youtube.com/watch?v=6rDBqVHSbgM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)) |
+| Video | [[10분 테코톡] 🚴‍♂️ 돔하디의 VirtualDOM](https://www.youtube.com/watch?v=6rDBqVHSbgM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
 
 <br>
 
