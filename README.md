@@ -11,6 +11,63 @@
 
 <br>
 
+## 🐓 Level 4 : 팀 프로젝트 유지 보수 및 웹 프론트엔드에 깊이를 더하는 단계
+
+### 기간
+
+* ``2022.08.30 – 2021.10.29``
+
+### 학습 목표
+
+✅ 프론트엔드 성능을 측정, 분석하고 개선해본다.
+✅ TypeScript를 깊이있게 이해하고 다뤄본다.
+✅ 웹접근성 시나리오에 따라 적절한 속성을 추가할 수 있는 역량을 향상해본다.웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
+
+### 진행 미션
+
+| Step | Project | Repository | Pull Request |
+|:---:|:---:|:---:|:---|
+| 1 | 프론트엔드 성능 개선 | [perf-basecamp](https://github.com/DomMorello/perf-basecamp/tree/dommorello) | [Pull Request](https://github.com/woowacourse/perf-basecamp/pull/56) |
+| 2 | 타입스크립트 심화 | [ts-module](https://github.com/DomMorello/ts-module/tree/dommorello) | [Pull Request](https://github.com/woowacourse/ts-module/pull/21) |
+| 3 | 웹 접근성 | [a11y-airline-step1](https://github.com/DomMorello/a11y-airline/tree/dommorello) | [Pull Request](https://github.com/woowacourse/a11y-airline/pull/42) |
+| | | [a11y-airline-step2](https://github.com/DomMorello/a11y-airline/tree/step2) | [Pull Request](https://github.com/woowacourse/a11y-airline/pull/70) |
+
+<br>
+
+## 🐥 Level 3 : Team Project
+
+### 기간
+
+* ``2022.06.28 - 2022.10.28``
+
+### 학습 목표
+
+✅ 개발 프로세스 기반으로 프로젝트 기획과 진행 및 협업하는 경험을 한다.
+✅ 시맨틱 버저닝, 테스트 자동화, 성능 최적화, 빌드 환경 개선 경험을 한다.
+
+### 진행 미션
+
+> 함께 회고하고 공유하는 회고 플랫폼, 회고덕 (Review-Duck) 개발 프로젝트 😇💪
+
+| Category | Description |
+|:---:| :---: |
+| Service | [회고덕 (Review-Duck)](https://ducks.kr/) |
+| Repository | [2022-review-duck](https://github.com/woowacourse-teams/2022-review-duck)|
+| Tech Wiki | [2022-review-duck-wiki](https://github.com/woowacourse-teams/2022-review-duck/wiki) |
+| 서비스 소개 | [Demo Day Site](https://sites.google.com/woowahan.com/woowacourse-demo-4th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%ED%9A%8C%EA%B3%A0%EB%8D%95) |
+
+### Demo Videos
+
+| Category | Description |
+|:---:| :---: |
+| Video | [프로젝트 기획 & 팀 문화](https://www.youtube.com/watch?v=aCVpyqzl5og&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| Video | [브랜치 전략 & API 설계](https://www.youtube.com/watch?v=HaT3Owu-3Dk&t=182s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| Video | [시맨틱 버저닝 & 기능 구현](https://www.youtube.com/watch?v=GeKxtyNXY3M&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| Video | [서비스 소개](https://www.youtube.com/watch?v=4De9K7QZQQk&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech) |
+| Video | [성능 최적화]() |
+
+<br>
+
 ## 🐣 Level 2 : Web Programming with React
 
 ### 기간
