@@ -132,4 +132,38 @@
 
 <br>
 
+
+## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+
+### 활동 목표
+
+✅ 현장에서 필요한 말하기 능력을 향상시키기 위해 발표를 진행한다.
+
+### 활동 내역
+
+| Category | Description |
+|:---:| :---: |
+| Video | [[10분 테코톡] 🚴‍♂️ 돔하디의 VirtualDOM]([https://www.youtube.com/watch?v=Ry_gB34cvwc](https://www.youtube.com/watch?v=6rDBqVHSbgM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)) |
+
+<br>
+
+## 🖋 Writing : 글쓰기 코스
+
+### 학습 목표
+
+✅ 각 레벨 별로 한 편의 글을 완성하도록 한다.
+✅ 한 편의 글에 자신의 생각과 감정을 논리적으로 담을 수 있도록 한다.
+✅ 독자가 이해하기 쉬운 글을 작성한다.
+
+### 진행 미션
+
+| Level | Project | Repository | Pull Request |
+|:---:|:---:|:---:|:---|
+| 1 | 우아한테크코스 한 달 생활기 | [woowa-writing-4-level1](https://github.com/DomMorello/woowa-writing-4) | [Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/44) |
+| 2 | 우테코에서 찾은 나만의 효과적인 공부법 |[woowa-writing-4-level2](https://github.com/DomMorello/woowa-writing-4/blob/dommorello-2/level2.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/207) |
+| 3 | 팀 프로젝트가 나에게 남긴 것 | [woowa-writing-4-level3](https://github.com/DomMorello/woowa-writing-4/blob/dommorello/level3.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/244) |
+| 4 | 내가 꿈꾸는 프로그래머로서의 삶 | [woowa-writing-4-level4](https://github.com/DomMorello/woowa-writing-4/blob/dommorello-step4/step4.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/418) |
+
+<br>
+
 ---
